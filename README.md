@@ -77,4 +77,6 @@ ScientificCalculator/
 ## 📜 License
 
 This project is licensed under the **MIT License**.
-You’re free to use, modify, and distribute it with credit to the original author.
+You’re free to use, modify, and distribute it with My credit.
+
+Created By Yusha
